@@ -1,0 +1,5 @@
+unigram <- readRDS("1gram.rds")
+bigram <- readRDS("2gram.rds")
+trigram <- readRDS("3gram.rds")
+gtSmooth <- readRDS("gtSmooth.rds")
+mkn.discount <- readRDS("mkn_discount.RDS")
